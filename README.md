@@ -1,12 +1,12 @@
 
 # FastApi Blog Site
 
-I showed how to use RestFullAPI with FastApi. How to implement Middleware, Authentication, connect SqlLite database and multi Routers. 
+I showed how to use RESTful API  with FastApi. How to implement Middleware, Authentication, connect SQLAlchemy database and multi Routers. 
 
 
 ## Acknowledgements
 
- - [SqlLite DataBase](https://github.com/Sinanoloji/fastapi-blog/tree/main/db)
+ - [SQLAlchemy DataBase](https://github.com/Sinanoloji/fastapi-blog/tree/main/db)
  - [Router](https://github.com/Sinanoloji/fastapi-blog/tree/main/router)
  - [Authentication](https://github.com/Sinanoloji/fastapi-blog/tree/main/auth)
 
